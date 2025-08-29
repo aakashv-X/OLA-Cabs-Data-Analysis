@@ -63,7 +63,6 @@ Here are some visualizations from the data analysis:
 ![Cancellation](https://github.com/aakashv-X/OLA-Cabs-Data-Analysis/blob/main/Ola%20Cabs/Assets/Cancellation.png)
 ![Ratings](https://github.com/aakashv-X/OLA-Cabs-Data-Analysis/blob/main/Ola%20Cabs/Assets/Ratings.png)
 
-*Remember to replace the image placeholders with actual links to your visualizations once you've added them to your repository.*
 
 ## Appendix
 
